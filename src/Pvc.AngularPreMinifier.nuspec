@@ -6,13 +6,13 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/fisshy/pvc-angularpreminifier/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/fisshy/pvc-angularpreminifier</projectUrl>
+    <licenseUrl>https://github.com/fisshy/pvc-angularminify/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/fisshy/pvc-angularminify</projectUrl>
     <iconUrl>http://i.imgur.com/9F9yb22.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright $$CurrentYear$$</copyright>
+    <copyright>Copyright 2014</copyright>
     <tags>PVC plugin scriptcs angular javascript JS</tags>
   </metadata>
 </package>
