@@ -1,4 +1,3 @@
-pvc-angularminfier
-==================
+pvc-angularpreminifier
+========
 
-pvc angular minifier
